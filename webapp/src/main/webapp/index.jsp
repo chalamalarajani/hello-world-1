@@ -4,4 +4,6 @@
 
 <h3>  Welcome to CTC </h3>
 
-<h3>  Thank you </h3>
+<h4>  Thank you </h4>
+
+<h4>  GOOD DAY </h4>
